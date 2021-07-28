@@ -29,6 +29,6 @@
   background-color: rgb(230, 159, 159);
 }
 
-.form-control.invalid label{
+.form-control.invalid label {
   color:red;
 }
